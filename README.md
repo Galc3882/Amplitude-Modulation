@@ -1,0 +1,2 @@
+# Amplitude-Modulation
+My lab partner and I collaborated to design and build an amplitude modulator and an envelope detector with multiplexing capabilities. The large scale project covers information emission and analysis, complex subjects in physics and electrical engineering such as modulator, envelope detector, semiconductors, subtractor, amplifiers, sine wave generator and more. We also conducted simulations with Tina TI, MATLAB and Excel. The project took approximately 200 hours in total.
